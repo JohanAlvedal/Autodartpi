@@ -9,7 +9,7 @@
 
 ## ⬇️ Download
 
-**[→ Download latest image (autodarts-pi-v1.1.img.xz)](https://github.com/JohanAlvedal/Autodartpi/releases/latest)**
+**[→ Download latest image (autodarts-pi-v1.0.0.img.xz)](https://github.com/JohanAlvedal/Autodartpi/releases/latest)**
 
 Flash with [Raspberry Pi Imager](https://www.raspberrypi.com/software/) – supports `.img.xz` natively.
 

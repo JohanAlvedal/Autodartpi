@@ -390,4 +390,4 @@ journalctl -u autodarts-updater.service --since today
 
 ---
 
-*AutoDarts Pi Image • Technical Manual • v1.1 • By Johan Alvedal*
+*AutoDarts Pi Image • Technical Manual • v1.0.0 • By Johan Alvedal*

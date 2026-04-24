@@ -19,7 +19,7 @@ Flash with [Raspberry Pi Imager](https://www.raspberrypi.com/software/) – supp
 
 | Step | Action |
 |------|--------|
-| 1 | Flash `autodarts-pi-v1.1.img.xz` to SD card using Raspberry Pi Imager |
+| 1 | Flash `autodarts-pi-v1.0.0.img.xz` to SD card using Raspberry Pi Imager |
 | 2 | Insert SD card into Raspberry Pi and power on |
 | 3 | Wait ~30–60 seconds for the Pi to boot |
 | 4 | Connect your phone or computer to the WiFi network **AutoDart-Setup** |
@@ -135,7 +135,7 @@ Autodartpi/
 
 ## 📖 Documentation
 
-Full technical manual available in [`docs/AutoDarts-Pi-Manual.docx`](docs/AutoDarts-Pi-Manual.docx)
+Full technical manual available in [docs/MANUAL.md](docs/MANUAL.md)
 
 ---
 

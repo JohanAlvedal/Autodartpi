@@ -51,6 +51,17 @@ Flash with [Raspberry Pi Imager](https://www.raspberrypi.com/software/) – supp
 
 ---
 
+## 🔐 Default Credentials
+
+| | |
+|--|--|
+| **SSH User** | `autodart` |
+| **SSH Password** | `autodart` |
+
+> ⚠️ Change your password after first login: `passwd`
+
+---
+
 ## ⚙️ Pre-configuration (optional)
 
 Skip the portal entirely by creating `/boot/firmware/autodarts.conf` on the SD card before first boot:

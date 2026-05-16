@@ -304,7 +304,18 @@ Once the Pi is on your network, connect via SSH to manage services and check log
 ```bash
 ssh autodart@autodartpi.local
 ```
+### Default Credentials
 
+| | |
+|--|--|
+| **SSH User** | `autodart` |
+| **SSH Password** | `autodart` |
+
+> ⚠️ Change your password after first login:
+> ```bash
+> passwd
+> ```
+> 
 > **Tip:** The hostname `autodartpi.local` resolves via mDNS. Works natively on Mac and Linux. Windows users may need to install Bonjour or use the Pi's IP address directly.
 
 ### Quick reference

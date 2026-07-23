@@ -759,7 +759,6 @@ Release files:
 
 ```text
 autodarts-pi-v1.1.1.img.xz
-autodarts-pi-v1.1.1.img.xz.sha256
 ```
 
 ---

@@ -161,36 +161,6 @@ systemctl status autodarts-updater.timer
 sudo reboot
 ```
 
----
-
-## ✅ Verify the Download
-
-Linux or macOS:
-
-```bash
-sha256sum -c autodarts-pi-v1.1.1.img.xz.sha256
-```
-
-The expected result is:
-
-```text
-autodarts-pi-v1.1.1.img.xz: OK
-```
-
-On Windows PowerShell:
-
-```powershell
-Get-FileHash .\autodarts-pi-v1.1.1.img.xz -Algorithm SHA256
-```
-
-Compare the result with the value in:
-
-```text
-autodarts-pi-v1.1.1.img.xz.sha256
-```
-
----
-
 ## 🔧 Troubleshooting
 
 | Problem                            | Solution                                                                              |

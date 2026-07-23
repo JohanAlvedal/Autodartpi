@@ -14,7 +14,6 @@
 The release includes:
 
 - `autodarts-pi-v1.1.1.img.xz`
-- `autodarts-pi-v1.1.1.img.xz.sha256`
 
 Flash the `.img.xz` file directly with [Raspberry Pi Imager](https://www.raspberrypi.com/software/). No extraction is required.
 

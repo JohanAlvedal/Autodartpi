@@ -94,45 +94,6 @@ AutoDarts Pi Image is a pre-built Raspberry Pi installation that allows you to d
 
 The image is distributed as a compressed `.img.xz` file. Raspberry Pi Imager and balenaEtcher can flash it directly without extracting it first.
 
-Before flashing, download both release files:
-
-- `autodarts-pi-v1.1.1.img.xz`
-- `autodarts-pi-v1.1.1.img.xz.sha256`
-
-### Verify the checksum
-
-On Linux:
-
-```bash
-sha256sum -c autodarts-pi-v1.1.1.img.xz.sha256
-```
-
-The expected result is:
-
-```text
-autodarts-pi-v1.1.1.img.xz: OK
-```
-
-On macOS:
-
-```bash
-shasum -a 256 autodarts-pi-v1.1.1.img.xz
-```
-
-Compare the result with the hash stored in:
-
-```text
-autodarts-pi-v1.1.1.img.xz.sha256
-```
-
-On Windows PowerShell:
-
-```powershell
-Get-FileHash .\autodarts-pi-v1.1.1.img.xz -Algorithm SHA256
-```
-
-Compare the result with the checksum file.
-
 ### 3.1 Using Raspberry Pi Imager (recommended)
 
 Raspberry Pi Imager is the easiest method and works on Windows, macOS and Linux.
